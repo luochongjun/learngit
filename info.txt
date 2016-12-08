@@ -13,6 +13,6 @@ icmp_req=1 ttl=55 time=35.0 ms
 received, 0% packet loss, time 0ms
 ----------------------------------------------
 
-number:411-19 17:51:29
+test number:411-19 17:51:29
 icmp_req=1 ttl=52 time=54.4 ms
 received, 0% packet loss, time 0ms
